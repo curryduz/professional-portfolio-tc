@@ -158,6 +158,16 @@ footer div {
 footer a {
   color: #a80878;
 }
+
+section {
+ padding: 60px;
+  background-image: url("./assets/images/cloudsheader.jpg");
+}
+
+.hero {
+   background-image: url("./assets/images/cloudsheader.jpg");
+   height: 600px;
+}
 /*
 
 <1111
